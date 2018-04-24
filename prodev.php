@@ -36,6 +36,27 @@
 			<h2>Elevator Pitch</h2>
 			<h3>Version 1</h3>
 			Good morning/afternoon/evening! My name is G Cordova. I am working on an app that is to help make this world better by bringing happiness to others. Let's grab lunch to discuss ideas!
+			<h2>Online Identity</h2>
+			<div>
+				<table>
+					<tr>
+						<th>Professional</th>
+						<th>Personal</th>
+					</tr>
+					<tr>
+						<td>Gregory Cordova, Greg Cordova</td>
+						<td>Papi</td>
+					</tr>
+					<tr>
+						<td>Linkedin, Twitter</td>
+						<td>Snapchat</td>
+					</tr>
+					<tr>
+						<td>Coding Trainee, Taxpayer, Employee</td>
+						<td>"Renaissance man", entrepreneur, free thinker, rebellious</td>
+					</tr>
+				</table>
+			</div>
 			<h2>Weekly Reflections</h2>
 			<h3>Week 1</h3>
 			I am feeling like I have a long way to get to where I am looking to get with my coding abilities. However, I knew that this would come with the territory when I started this. I have full faith in myself and my instructors that I will reach my goal through hard work and patience!
