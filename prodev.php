@@ -39,6 +39,8 @@
 			<h2>Weekly Reflections</h2>
 			<h3>Week 1</h3>
 			I am feeling like I have a long way to get to where I am looking to get with my coding abilities. However, I knew that this would come with the territory when I started this. I have full faith in myself and my instructors that I will reach my goal through hard work and patience!
+			<h3>Week 2</h3>
+			The past week has been a very dense week, as far as knowledge goes. The material has been very eye-opening and I am starting to feel a bit overwhelmed with certain materials. However, I am making it a point to spend more time on those subjects to lessen my struggle. This is starting to become very stressful but I am ready to overcome.
 		</div>
 	</body>
 </html>
