@@ -6,12 +6,13 @@
 	</head>
 	<body>
 		<h1>G Cordova's Professional Development</h1>
-		Last Updated: April 15th, 2018
 		Career Buddy: Brent
+		Last Updated: April 15th, 2018
 		<div>
-			<div>
-				<a href="https://www.linkedin.com/in/g-cordova-13993415a/">Linkedin</a>
-			</div>
+			<ul>
+				<li> <a href="https://www.linkedin.com/in/g-cordova-13993415a/">Linkedin</a> </li>
+				<li> <a href="GCordova2018.docx">Resume</a> </li>
+			</ul>
 			<h2>Learning Style</h2>
 			Hands On
 			<h2>Quantitative Accomplishments</h2>
