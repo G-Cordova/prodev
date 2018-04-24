@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>prodev</title>
+		<link rel="stylesheet" href="./styles/styling.css">
 	</head>
 	<body>
 		<h1>G Cordova's Professional Development</h1>
