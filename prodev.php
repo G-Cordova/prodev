@@ -34,6 +34,12 @@
 				<li>I have no idea how I am going to do this yet.</li>
 				<li>I am in hopes that this will make our world better, even if it is just a little bit.</li>
 			</ol>
+			<h2>Activity Responses</h2>
+			<ol>
+				<li>Absolutely. I beleive it because I know my potential and I can do anything i set my intetions to. I understand that this will not come easy. It will take alot of hard-work, persistance, dedication, and patience.</li>
+				<li>Currently, my obstacle is a lack of knowledge/experience. I will overcome this by working toward obtaining this knowledge. From that point, I will apply that knowledge to then gain experience.</li>
+				<li>I create value through my creative and critical thinking. I also provide value through my abstract perspective.</li>
+			</ol>
 			<h2>Elevator Pitch</h2>
 			<h3>Version 1</h3>
 			Good morning/afternoon/evening! My name is G Cordova. I am working on an app that is to help make this world better by bringing happiness to others. Let's grab lunch to discuss ideas!
