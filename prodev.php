@@ -12,7 +12,7 @@
 		<div>
 			<ul>
 				<li> <a href="https://www.linkedin.com/in/g-cordova-13993415a/">Linkedin</a> </li>
-				<li> <a href="GCordova2018.docx">Resume</a> </li>
+				<li> <a href="GCordova2018 (4).docx">Resume</a> </li>
 			</ul>
 			<h2>Learning Style</h2>
 			Hands On
