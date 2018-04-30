@@ -63,6 +63,8 @@
 			I am feeling like I have a long way to get to where I am looking to get with my coding abilities. However, I knew that this would come with the territory when I started this. I have full faith in myself and my instructors that I will reach my goal through hard work and patience!
 			<h3>Week 2</h3>
 			The past week has been a very dense week, as far as knowledge goes. The material has been very eye-opening and I am starting to feel a bit overwhelmed with certain materials. However, I am making it a point to spend more time on those subjects to lessen my struggle. This is starting to become very stressful but I am ready to overcome.
+			<h3>Week 3</h3>
+			This week has been the toughest hard thus far. I am feeling a bit unsatisfied with my understanding of some material. I have reached out for extra help outside of class time. That really helped a great deal. However, I am going to keeping putting in time to eventually understand the material that is giving me trouble.
 		</div>
 	</body>
 </html>
