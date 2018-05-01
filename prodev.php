@@ -12,7 +12,7 @@
 		<div>
 			<ul>
 				<li> <a href="https://www.linkedin.com/in/g-cordova-13993415a/">Linkedin</a> </li>
-				<li> <a href="GCordova2018 (4).docx">Resume</a> </li>
+				<li> <a href="GCordova1.docx">Resume</a> </li>
 			</ul>
 			<h2>Learning Style</h2>
 			Hands On
@@ -39,6 +39,17 @@
 				<li>Absolutely. I beleive it because I know my potential and I can do anything i set my intetions to. I understand that this will not come easy. It will take alot of hard-work, persistance, dedication, and patience.</li>
 				<li>Currently, my obstacle is a lack of knowledge/experience. I will overcome this by working toward obtaining this knowledge. From that point, I will apply that knowledge to then gain experience.</li>
 				<li>I create value through my creative and critical thinking. I also provide value through my abstract perspective.</li>
+			</ol>
+			<h2>Stove Top</h2>
+			<h3>Back Burners</h3>
+			<ol>
+				<li>I am planning how to brand myself and create a presence as a developer through my pwp, business cards, etc.</li>
+				<li>I am networking as much as possible to open doors for possible future employers</li>
+			</ol>
+			<h2>Front Burners</h2>
+			<ol>
+				<li>I am dedicating all of my available spare time to practicing and improving my coding abilities.</li>
+				<li>I am going to seek and accept all feedback possible from anyone who is willing to provide me with helpful feedback.</li>
 			</ol>
 			<h2>Elevator Pitch</h2>
 			<h3>Version 1</h3>
