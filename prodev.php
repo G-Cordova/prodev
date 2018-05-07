@@ -74,6 +74,8 @@
 						<td>"Renaissance man", entrepreneur, free thinker, rebellious</td>
 					</tr>
 				</table>
+				<h2>Team building reflections</h2>
+				This week we played a board game between my capstone team and I. I am finding that it is a learning expierence to start a full project with a team. I feel we work together swell. Everyone has their strengths and weaknesses.
 			</div>
 			<h2>Weekly Reflections</h2>
 			<h3>Week 1</h3>
