@@ -12,7 +12,11 @@
 		<div>
 			<ul>
 				<li> <a href="https://www.linkedin.com/in/g-cordova-13993415a/">Linkedin</a> </li>
-				<li> <a href="GCordova1.docx">Resume</a> </li>
+				<li> <a href="GCORDOVA-resume.pdf">Resume</a> </li>
+			</ul>
+			<h2>Email Assignment link</h2>
+			<ul>
+				<li><a href="emaildraft.pdf">Email Draft</a></li>
 			</ul>
 			<h2>Learning Style</h2>
 			Hands On
