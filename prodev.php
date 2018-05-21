@@ -90,6 +90,10 @@
 			This week has been the toughest hard thus far. I am feeling a bit unsatisfied with my understanding of some material. I have reached out for extra help outside of class time. That really helped a great deal. However, I am going to keeping putting in time to eventually understand the material that is giving me trouble.
 			<h3>Week 4</h3>
 			This week there were many "clicks" that I experienced, which felt great. However, there are also new confusions and concepts that I plan to put extra time into. The bootcamp is really starting to get overwhelming. But, I enjoy it.
+			<h3>Week 5</h3>
+			This past weekend, I competed in the Angular Attack hackathon. It was very challenging. I am anxious to come into class and get clear perspective on Angular.
+			<h3>Week 6</h3>
+			This week has to be one of the most gruuling and exhausting weeks yet. I am feeling very stressed and overwhelmed with all the work I have on my plate. However, I know I can and will overcome.
 		</div>
 	</body>
 </html>
