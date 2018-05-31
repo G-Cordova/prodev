@@ -94,6 +94,9 @@
 			This past weekend, I competed in the Angular Attack hackathon. It was very challenging. I am anxious to come into class and get clear perspective on Angular.
 			<h3>Week 6</h3>
 			This week has to be one of the most gruuling and exhausting weeks yet. I am feeling very stressed and overwhelmed with all the work I have on my plate. However, I know I can and will overcome.
+			<h3>Week 7</h3>
+			It is difficult to put into words the feeling I started experiencing this week. This is the most stressed and overwhelmed I have felt so far during the bootcamp. I look forward to "getting through the weeds" so I can "get to the flowers". I will embrace this chaos and turn it into gold.
+
 		</div>
 	</body>
 </html>
